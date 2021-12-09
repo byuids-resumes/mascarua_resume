@@ -58,7 +58,7 @@ __Collinear Group__, Solutions Architect
 
 ## Service and Work History
 
-
+Change to Verify for Grand Question 4 by Braydon Coffin
 
 <!-- ### Footer
 
